@@ -1,6 +1,9 @@
 # 21st.py – Gigi Countdown 
-# Created by TheNiYu, 2025
+# Created by TheNiYu, 2025-MAY-08
 # 
+# Fan project inspired by Gigi Murin and the Grem community.
+# This work is unaffiliated with Gigi Murin or her management.
+#
 # Licensed under Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 # https://creativecommons.org/licenses/by-nc/4.0/
 #
