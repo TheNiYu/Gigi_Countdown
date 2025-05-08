@@ -39,3 +39,5 @@ This executable is a custom countdown that:
 Feel free to open an issue or find me in the Shoebox, TheNiYu (https://discord.gg/CB3wDtvD) 🐟
 
 > "BOAT GOES BINTED..."
+
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
