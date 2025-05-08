@@ -1,3 +1,16 @@
+# 21st.py – Gigi Countdown 
+# Created by TheNiYu, 2025
+# 
+# Licensed under Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+# https://creativecommons.org/licenses/by-nc/4.0/
+#
+# You are free to:
+# - Share — copy and redistribute the material in any medium or format
+# - Adapt — remix, transform, and build upon the material
+# Under the following terms:
+# - Attribution — You must give appropriate credit to TheNiYu
+# - NonCommercial — You may not use the material for commercial purposes
+
 import sys
 import time
 import random
